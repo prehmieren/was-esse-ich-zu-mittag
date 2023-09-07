@@ -1,0 +1,353 @@
+[
+    {
+        "thai_name": "เนื้อผัดพริก",
+        "german_name": "M1: NÜA PAD PRIK",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Gebratenes Rindfleisch, mit Zwiebeln, Lauch, Chilli, Champignons, süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "เนื้อผัดน้ำมันหอย",
+        "german_name": "M2: NÜA PAD NAHMANN HOI",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Gebratenes Rindfleisch mit Austernsauce und Zitronenblättern und Brokkoli"
+    },
+    {
+        "thai_name": "พะแนงเนื้อ",
+        "german_name": "M3: PANENG NÜA",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Rindfleisch, Zucchini mit Paneng-Curry, Zitronenblättern und Kokosmilch (scharf)"
+    },
+    {
+        "thai_name": "เนื้อผัดถั่วงอก",
+        "german_name": "M4: NÜA PAD TUANGOHG",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Gebratenes Rindfleisch mit Sojakeimem und Lauch"
+    },
+    {
+        "thai_name": "เนื้อผัดขิง",
+        "german_name": "M5: NÜA PAD KING",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Gebratenes Rindfleisch mit Zwiebeln, Lauch, Chilli, Ingwer und Morcheln"
+    },
+    {
+        "thai_name": "เนื้อผัดซอสเปรี้ยวหวาน",
+        "german_name": "M6: NÜA PRIOW WAHN",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Rindfleisch süß-sauer, mit Tomaten, Gurken, Zwiebeln, Ananas und Paprika"
+    },
+    {
+        "thai_name": "เนื้อผัดหน่อไม้",
+        "german_name": "M7: NÜA PAD NOHMAI",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Gebratenes Rindfleisch mit Bambus, Champignons und Tongku-Pilzen"
+    },
+    {
+        "thai_name": "แกงเผ็ดเนื้อ",
+        "german_name": "M8: GAENG PET NÜA",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Rindfleisch mit rotem Curry, Bambus, Kokosmilch, Auberginen und süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "แกงเขียวหวานเนื้อ",
+        "german_name": "M9: GAENG KIOW WAHN NÜA",
+        "type": "Reis",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Rindfleisch mit grünem Curry, Bambus, Kokosmilch, Auberginen und süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "หมูผัดพริก",
+        "german_name": "M10: MUH PAD PRIK",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Schweinefleisch gebraten, mit Zwiebeln, Lauch, Chilli, Champignons, süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "หมูผัดน้ำมันหอย",
+        "german_name": "M11: MUH PAD NAHMANN HOI",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Gebratenes Schweinefleisch mit Austernsauce und Zitronenblättern und Brokkoli"
+    },
+    {
+        "thai_name": "พะแนงหมู",
+        "german_name": "M12: PANENG MUH",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Schweinefleisch, Zucchini mit Paneng-Curry, Zitronenblättern und Kokosmilch (scharf)"
+    },
+    {
+        "thai_name": "หมูผัดถั่วงอก",
+        "german_name": "M13: MUH PAD TUANGOHG",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Gebratenes Schweinefleisch mit Sojakeimem und Lauch"
+    },
+    {
+        "thai_name": "หมูผัดขิง",
+        "german_name": "M14: MUH PAD KING",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Gebratenes Schweinefleisch mit Zwiebeln, Lauch, Chilli, Ingwer und Morcheln"
+    },
+    {
+        "thai_name": "หมูผัดซอสเปรี้ยวหวาน",
+        "german_name": "M15: MUH PRIOW WAHN",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Schweinefleisch süß-sauer, mit Tomaten, Gurken, Zwiebeln, Ananas und Paprika"
+    },
+    {
+        "thai_name": "หมูผัดหน่อไม้",
+        "german_name": "M16: MUH PAD NOHMAI",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Gebratenes Schweinefleisch mit Bambus, Champignons und Tongku-Pilzen"
+    },
+    {
+        "thai_name": "แกงเผ็ดหมู",
+        "german_name": "M17: GAENG PET MUH",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Schweinefleisch mit rotem Curry, Bambus, Kokosmilch, Auberginen und süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "แกงเขียวหวานหมู",
+        "german_name": "M18: GAENG KIOW WAHN MUH",
+        "type": "Reis",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Schweinefleisch mit grünem Curry, Bambus, Kokosmilch, Auberginen und süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "ไก่ผัดพริก",
+        "german_name": "M19: GAI PAD PRIK",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Hühnerfleisch gebraten, mit Zwiebeln, Lauch, Chilli, Champignons, süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "ไก่ผัดน้ำมันหอย",
+        "german_name": "M20: GAI PAD NAHMANN HOI",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Gebratenes Hühnerfleisch mit Austernsauce und Zitronenblättern und Brokkoli"
+    },
+    {
+        "thai_name": "พะแนงไก่",
+        "german_name": "M21: PANENG GAI",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Hühnerfleisch, Zucchini mit Paneng-Curry, Zitronenblättern und Kokosmilch (scharf)"
+    },
+    {
+        "thai_name": "ไก่ผัดถั่วงอก",
+        "german_name": "M22: GAI PAD TUANGOHG",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Gebratenes Hühnerfleisch mit Sojakeimem und Lauch"
+    },
+    {
+        "thai_name": "ไก่ผัดขิง",
+        "german_name": "M23: GAI PAD KING",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Gebratenes Hühnerfleisch mit Zwiebeln, Lauch, Chilli, Ingwer und Morcheln"
+    },
+    {
+        "thai_name": "ไก่ผัดซอสเปรี้ยวหวาน",
+        "german_name": "M24: GAI PRIOW WAHN",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Hühnerfleisch süß-sauer, mit Tomaten, Gurken, Zwiebeln, Ananas und Paprika"
+    },
+    {
+        "thai_name": "ไก่ผัดหน่อไม้",
+        "german_name": "M25: GAI PAD NOHMAI",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Gebratenes Hühnerfleisch mit Bambus, Champignons und Tongku-Pilzen"
+    },
+    {
+        "thai_name": "แกงเผ็ดไก่",
+        "german_name": "M26: GAENG PET GAI",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Hühnerfleisch mit rotem Curry, Bambus, Kokosmilch, Auberginen und süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "แกงเขียวหวานไก่",
+        "german_name": "M27: GAENG KIOW WAHN GAI",
+        "type": "Reis",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Hühnerfleisch mit grünem Curry, Bambus, Kokosmilch, Auberginen und süßem Basilikum (scharf)"
+    },
+    {
+        "thai_name": "ปลาผัดขิง",
+        "german_name": "M28: PLA PAD KING",
+        "type": "Reis",
+        "meat": [
+            "Fisch"
+        ],
+        "description": "Parniertes Fischfilet mit Ingwer, Lauch, Zwiebeln und Morcheln"
+    },
+    {
+        "thai_name": "ฉู่ฉี่ปลา",
+        "german_name": "M29: SCHU-SCHI PLA",
+        "type": "Reis",
+        "meat": [
+            "Fisch"
+        ],
+        "description": "Parniertes Fischfilet mit rotem Curry, Zucchini, Kokosmilch und Basilikum"
+    },
+    {
+        "thai_name": "ปลาผัดซอสเปรี้ยวหวาน",
+        "german_name": "M30: PLA ORIOW WAHN",
+        "type": "Reis",
+        "meat": [
+            "Fisch"
+        ],
+        "description": "Gebratenes Fischfilet süß-sauer mit Tomaten, Gurken, Zwiebeln, Ananas und Paprika"
+    },
+    {
+        "thai_name": "ผัดผักรวมมิตร",
+        "german_name": "M29: PAD PAK RUAMID",
+        "type": "Reis",
+        "meat": [
+            "vegetarisch"
+        ],
+        "description": "Verschiedenes gebratenes Gemüse und Glasnudeln"
+    },
+    {
+        "thai_name": "ผัดบรอกโคลีน้ำมันหอย",
+        "german_name": "M30: PAD BROKKOLI NAHMANN HOI",
+        "type": "Reis",
+        "meat": [
+            "vegetarisch"
+        ],
+        "description": "Gebratener Brokkoli mit Austernsauce und Tongku-Pilzen"
+    },
+    {
+        "thai_name": "ผัดถั่วงอก",
+        "german_name": "M31: PAD TUANGOHG",
+        "type": "Reis",
+        "meat": [
+            "vegetarisch"
+        ],
+        "description": "Sojakeimlinge mit Lauch, Möhren und Tongku-Pilzen"
+    },
+    {
+        "thai_name": "ผัดซีอิ๊วเนื้อ",
+        "german_name": "M34: GUAI TEAU PAD SEE-IUW NÜA",
+        "type": "Nudeln",
+        "meat": [
+            "Rind"
+        ],
+        "description": "Gebratene Reisnudeln mit Rindfleisch, Brokkoli und Eiern"
+    },
+    {
+        "thai_name": "ก๋วยเตี๋ยวผัดซีอิ๊วหมู",
+        "german_name": "GUAI TEAU PAD SEE-IUW MUH",
+        "type": "Nudeln",
+        "meat": [
+            "Schwein"
+        ],
+        "description": "Gebratene Reisnudeln mit Schweinefleisch, Brokkoli und Eiern"
+    },
+    {
+        "thai_name": "ก๋วยเตี๋ยวผัดซีอิ๊วไก่",
+        "german_name": "M36: GUAI TEAU PAD SEE-IUW GAI",
+        "type": "Nudeln",
+        "meat": [
+            "Huhn"
+        ],
+        "description": "Gebratene Reisnudeln mit Hühnerfleisch, Brokkoli und Eiern"
+    },
+    {
+        "thai_name": "ข้าวผัดเนื้อ",
+        "german_name": "M37: KAO PAD NÜA",
+        "type": "gebratener Reis",
+        "meat": [
+            "vegetarisch"
+        ],
+        "description": "Gebratener Reis mit Rindfleisch, Brokkoli und Eiern"
+    },
+    {
+        "thai_name": "ข้าวผัดหมู",
+        "german_name": "M38: KAO PAD MUH",
+        "type": "gebratener Reis",
+        "meat": [
+            "vegetarisch"
+        ],
+        "description": "Gebratener Reis mit Schweinefleisch, Brokkoli und Eiern"
+    },
+    {
+        "thai_name": "ข้าวผัดไก่",
+        "german_name": "M39: KAO PAD GAI",
+        "type": "gebratener Reis",
+        "meat": [
+            "vegetarisch"
+        ],
+        "description": "Gebratener Reis mit Hühnerfleisch, Brokkoli und Eiern"
+    }
+]
