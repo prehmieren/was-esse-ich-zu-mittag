@@ -271,7 +271,7 @@
     },
     {
         "thai_name": "ผัดผักรวมมิตร",
-        "german_name": "M29: PAD PAK RUAMID",
+        "german_name": "M31: PAD PAK RUAMID",
         "type": "Reis",
         "meat": [
             "vegetarisch"
@@ -280,7 +280,7 @@
     },
     {
         "thai_name": "ผัดบรอกโคลีน้ำมันหอย",
-        "german_name": "M30: PAD BROKKOLI NAHMANN HOI",
+        "german_name": "M32: PAD BROKKOLI NAHMANN HOI",
         "type": "Reis",
         "meat": [
             "vegetarisch"
@@ -289,7 +289,7 @@
     },
     {
         "thai_name": "ผัดถั่วงอก",
-        "german_name": "M31: PAD TUANGOHG",
+        "german_name": "M33: PAD TUANGOHG",
         "type": "Reis",
         "meat": [
             "vegetarisch"
@@ -307,7 +307,7 @@
     },
     {
         "thai_name": "ก๋วยเตี๋ยวผัดซีอิ๊วหมู",
-        "german_name": "GUAI TEAU PAD SEE-IUW MUH",
+        "german_name": "M35: GUAI TEAU PAD SEE-IUW MUH",
         "type": "Nudeln",
         "meat": [
             "Schwein"
