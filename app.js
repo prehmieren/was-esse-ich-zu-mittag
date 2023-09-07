@@ -1,37 +1,3 @@
-//async
-// const login = async (username, password) => {
-//     if (!username || !password) throw "Missing Credentials"
-//     if (password == "hello") return "Welcome!"
-//     throw "Invalid Password"
-// }
-
-// login("prehmieren", "hello")
-//     .then((data) => {
-//         console.log("SUCCESS!", data)
-//     })
-//     .catch((error) => {
-//         console.log("FAILED!", error)
-//     })
-
-
-// promise
-// const login = (username, password) => {
-//     return new Promise((resolve, reject) => {
-//         if (!username || !password) reject("Missing Credentials")
-//         if (password == "hello") resolve("Welcome!")
-//         reject("Invalid Password")
-//     })
-// }
-
-// login("prehmieren", "hello")
-//     .then((data) => {
-//         console.log("SUCCESS!", data)
-//     })
-//     .catch((error) => {
-//         console.log("FAILED!", error)
-//     })
-
-//bored api
 const btn = document.getElementById('random-btn')
 async function getActivity() {
     const thaiName = document.getElementById('thai-name')
@@ -40,7 +6,7 @@ async function getActivity() {
     const icon = document.getElementById('icon')
     const randomIndex = Math.floor(Math.random() * 39)
 
-    const request = await fetch('MittagFood.json')
+    const request = await fetch('https://raw.githubusercontent.com/prehmieren/was-esse-ich-zu-mittag/main/mittagFood.json')
     const data = await request.json()
     const randomFood = (data[randomIndex]);
     thaiName.innerText = randomFood.thai_name;
